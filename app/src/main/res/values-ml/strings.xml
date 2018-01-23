@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true">TEL-DoT</string>
+    <string name="loading_text" translatable="true">കാത്തിരിക്കൂ..</string>
+    <string name="choose_lan" translatable="true">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+    <string name="lan_button" translatable="true">അടുത്തത്</string>
+
+    <string name="a_c_button" translatable="true">പുറത്തുകടക്കുക</string>
+    <string name="a_c_edit_hint" translatable="true">നമ്പർ വഴി</string>
+    <string name="a_c_button2" translatable="true">സമർപ്പിക്കുക</string>
+    <string name="a_dash_b1" translatable="true">പ്രവേശിക്കുക</string>
+    <string name="a_dash_b2" translatable="true">Dot ജീവനക്കാരുടെ ലോഗിൻ</string>
+    <string name="a_dot_h1" translatable="true">ലോഗിൻ ഐഡി</string>
+    <string name="a_dot_h2" translatable="true">പാസ്വേഡ്</string>
+    <string name="a_dot_button" translatable="true">സമർപ്പിക്കുക</string>
+    <string name="a_get_start" translatable="true">വിടുക</string>
+    <string name="a_user" translatable="true">രജിസ്റ്റർ നമ്പർ</string>
+    <string name="dot_con_b1" translatable="true">കണക്ഷനുകളുടെ എണ്ണം</string>
+    <string name="dot_con_b2" translatable="true">അധിക കണക്ഷൻ</string>
+
+    <string-array name="listvieww">
+        <item>English</item>
+        <item>हिन्दी</item>
+        <item>ਪੰਜਾਬੀ </item> \\punjabi
+        <item>मराठी</item>
+        <item>ગુજરાતી</item>
+        <item>தமிழ்</item>  \\tamil
+        <item>తెలుగు</item>  \\telugu
+        <item>বাংলা</item>   \\bengali
+        <item>മലയാളം</item>  \\malayalam
+        <item>ಕನ್ನಡ</item>     \\kannada
+    </string-array>
+</resources>
+

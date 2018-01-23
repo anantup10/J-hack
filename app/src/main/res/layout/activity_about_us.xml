@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Functions of DoT"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Policy, Licensing and Coordination matters relating to telegraphs, telephones, wireless, data, facsimile and telematic services and other like forms of communications.
+International cooperation in matters connected with telecommunications including matters relating to all international bodies dealing with telecommunications such as International Telecommunication Union (ITU), its Radio Regulation Board (RRB), Radio Communication Sector (ITU-R), Telecommunication Standardization Sector (ITU-T), Development Sector (ITU-D), International Telecommunication Satellite Organization (INTELSAT), International Mobile Satellite Organization (INMARSAT), Asia Pacific Telecommunication (APT).
+Promotion of standardization, research and development in telecommunications.
+Promotion of private investment in Telecommunications.
+
+
+Financial assistance for the furtherance of research and study in telecommunications technology and for building up adequately trained manpower for telecom programme, including-assistance to institutions, assistance to scientific institutions and to universities for advanced scientific study and research; and
+grant of scholarships to students in educational institutions and other forms of financial aid to individuals including those going abroad for studies in the field of telecommunications.
+
+Procurement of stores and equipment required by the Department of Telecommunications.
+Telecom Commission.
+Telecom Regulatory Authority of India.
+Telecom Disputes Settlement and Appellate Tribunal.
+Administration of laws with respect to any of the matters specified in this list, namely:-
+The Indian Telegraph Act, 1885 (13 of 1885);
+The Indian Wireless Telegraphy Act, 1933 (17 of 1933); and
+The Telecom Regulatory Authority of India Act, 1997 (24 of 1997).
+Indian Telephone Industries Limited.
+Post disinvestment matters relating to M/s Hindustan Teleprinters Limited.
+Bharat Sanchar Nigam Limited.
+Mahanagar Telephone Nigam Limited.
+Videsh Sanchar Nigam Limited and Telecommunications Consultants (India) Limited.
+All matters relating to Centre for Development of Telematics (C-DOT).
+Residual work relating to the erstwhile Department of Telecom Services and Department of Telecom Operations, including matters relating to-
+cadre control functions of Group 'A' and other categories of personnel till their absorption in Bharat Sanchar Nigam Limited;
+administration and payment of terminal benefits.
+Execution of works, purchase and acquisition of land debitable to the capital Budget pertaining to telecommunications.
+Government of India (Allocation of Business) Rules, 1961 as on 07-08-2017
+
+The Department of Telecommunications, abbreviated to DoT,
+is a department of the Ministry of Communications of the
+executive branch of the Government of India.
+the Department of Telecom has been formulating developmental policies
+for the accelerated growth of the telecommunication services. The Department
+is also responsible for grant of licenses for various telecom services like
+Unified Access Service Internet and VSAT service. The Department is also
+responsible for frequency management in the field of radio communication in
+close coordination with the international bodies. It also enforces
+wireless regulatory measures by monitoring wireless transmission of
+all users in the country.
+
+VISION
+To provide secure, reliable affordable and high quality converged telecommunication services anytime, anywhere for an accelerated inclusive socio-economic development.
+
+MISSION
+To develop a robust and secure state-of-the-art telecommunication network providing seamless coverage with special focus on rural and remote areas for bridging the digital divide and thereby facilitate socio- economic development; create an inclusive knowledge society through proliferation of affordable and high quality broadband services across the nation; reposition the mobile device as an instrument of socio-economic empowerment of citizens; make India a global hub for telecom equipment manufacturing; promote development of new standards to meet national requirements; attract investment, both domestic and foreign and promote creation of jobs.
+"
+            android:textSize="20sp"
+            android:padding="10dp"
+            android:fontFamily="sans-serif-condensed"/>
+    </ScrollView>
+
+</LinearLayout>

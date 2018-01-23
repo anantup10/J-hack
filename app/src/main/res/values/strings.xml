@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TEL-DoT</string>
+    <string name="a_c_button">Sign Out </string>
+    <string name="a_c_edit_hint">Aadhar No.</string>
+    <string name="a_c_button2">Submit</string>
+    <string name="a_dash_b1">Login As User</string>
+    <string name="a_dash_b2">Login As DOT Employee</string>
+    <string name="a_dot_h1">Login ID</string>
+    <string name="a_dot_h2">Password</string>
+    <string name="a_dot_button">SUBMIT</string>
+    <string name="a_get_start">SKIP</string>
+    <string name="a_user">Registered Mobile</string>
+    <string name="dot_con_b1">No. of connections</string>
+    <string name="dot_con_b2">Exceed Connections</string>
+
+
+    <string name="loading_text" translatable="true">Please Wait..</string>
+    <string name="choose_lan" translatable="true">Choose Language</string>
+    <string name="lan_button" translatable="true">NEXT</string>
+    <string-array name="listvieww">
+        <item>English</item>
+        <item>हिन्दी</item>
+        <item>ਪੰਜਾਬੀ </item>
+        \\punjabi
+        <item>मराठी</item>
+        <item>ગુજરાતી</item>
+        <item>தமிழ்</item>
+        \\tamil
+        <item>తెలుగు</item>
+        \\telugu
+        <item>বাংলা</item>
+        \\bengali
+        <item>മലയാളം</item>
+        \\malayalam
+        <item>ಕನ್ನಡ</item>
+        \\kannada
+    </string-array>
+
+</resources>

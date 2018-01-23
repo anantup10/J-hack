@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/usercheck_textview_enter_aadhar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:text="Enter 12 digit Adhaar no."/>
+
+    <EditText
+        android:id="@+id/usercheck_edittext_enter_aadhar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        />
+
+    <Button
+        android:id="@+id/usercheck_button_showallmobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Show all + bakchodi"/>
+
+    <Button
+        android:id="@+id/usercheck_button_add_data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="add data"/>
+
+    <Button
+        android:id="@+id/usercheck_button_log_out_of_current_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="sin/log out"/>
+
+    <TextView
+        android:id="@+id/usercheck_textview_showallmobileconnections"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textSize="20dp"
+        android:gravity="center"/>
+
+    <ListView
+        android:id="@+id/usercheck_listview_mobile_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </ListView>
+
+</LinearLayout>

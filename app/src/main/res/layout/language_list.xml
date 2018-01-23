@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_lan"
+        android:layout_marginTop="15dp"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/tv"
+        />
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_below="@id/tv"
+        android:layout_above="@id/button"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:entries="@array/listvieww"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="20dp"
+        android:clickable="true"
+
+        ></ListView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lan_button"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="#2632b4"
+        android:textColor="#fff"/>
+
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="loading_text" translatable="true">મહેરબાની કરી રાહ જુવો</string>
+    <string name="choose_lan" translatable="true">ભાષા પસંદ કરો</string>
+    <string name="lan_button" translatable="true">આગામી</string>
+
+    <string name="app_name" translatable="true">Jhack</string>
+    <string name="a_c_button" translatable="true">સાઇન આઉટ કરો</string>
+    <string name="a_c_edit_hint" translatable="true">આધાર નંબર</string>
+    <string name="a_c_button2" translatable="true">સબમિટ કરો</string>
+    <string name="a_dash_b1" translatable="true">પ્રવેશ કરો</string>
+    <string name="a_dash_b2" translatable="true">ડોટ કર્મચારી લૉગિન</string>
+    <string name="a_dot_h1" translatable="true">લૉગિન આઈડી</string>
+    <string name="a_dot_h2" translatable="true">પાસવર્ડ </string>
+    <string name="a_dot_button" translatable="true">સબમિટ કરો</string>
+    <string name="a_get_start" translatable="true">છોડો</string>
+    <string name="a_user" translatable="true">મોબાઇલ નંબર દાખલ કર્યો</string>
+    <string name="dot_con_b1" translatable="true">કનેક્શન્સની સંખ્યા</string>
+    <string name="dot_con_b2" translatable="true">વધારાના જોડાણ</string>
+
+    <string-array name="listvieww">
+        <item>English</item>
+        <item>हिन्दी</item>
+        <item>ਪੰਜਾਬੀ </item> \\punjabi
+        <item>मराठी</item>
+        <item>ગુજરાતી</item>
+        <item>தமிழ்</item>  \\tamil
+        <item>తెలుగు</item>  \\telugu
+        <item>বাংলা</item>   \\bengali
+        <item>മലയാളം</item>  \\malayalam
+        <item>ಕನ್ನಡ</item>     \\kannada
+        <item>ନୀୟ </item>    \\oriya
+    </string-array>
+</resources>
+

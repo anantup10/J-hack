@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.anant.jhack.Getting_Started"
+    >
+
+
+
+    <android.support.v4.view.ViewPager
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:id="@+id/viewPager">
+
+
+    </android.support.v4.view.ViewPager>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sliderDots"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:orientation="horizontal">
+
+        </LinearLayout>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a_get_start"
+            android:layout_margin="20dp"
+            android:background="@drawable/button"
+            android:layout_gravity="center_horizontal|bottom"
+            android:textColor="#fff"
+            android:id="@+id/startBtn"
+            />
+    </FrameLayout>

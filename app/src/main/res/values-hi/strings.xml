@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="true">TEL-DoT</string>
+    <string name="a_c_button" translatable="true">साइन आउट</string>
+    <string name="a_c_edit_hint" translatable="true">आधार संख्या</string>
+    <string name="a_c_button2" translatable="true">जमा करें</string>
+    <string name="a_dash_b1" translatable="true">लॉग इन करें</string>
+    <string name="a_dash_b2" translatable="true">डॉट कर्मचारी लॉग इन करे</string>
+    <string name="a_dot_h1" translatable="true">लॉगिन आईडी</string>
+    <string name="a_dot_h2" translatable="true">पासवर्ड </string>
+    <string name="a_dot_button" translatable="true">जमा करे</string>
+    <string name="a_get_start" translatable="true">छोड़ें</string>
+    <string name="a_user" translatable="true">दर्ज मोबाइल नंबर</string>
+    <string name="dot_con_b1" translatable="true">कनेक्शन की संख्या</string>
+    <string name="dot_con_b2" translatable="true">अतिरिक्त कनेक्शन</string>
+
+    <string name="loading_text" translatable="true">कृपया प्रतीक्षा करें..</string>
+    <string name="choose_lan" translatable="true">भाषा चुनें</string>
+    <string name="lan_button" translatable="true">अगला</string>
+    <string-array name="listvieww">
+        <item>English</item>
+        <item>हिन्दी</item>
+        <item>ਪੰਜਾਬੀ </item> \\punjabi
+        <item>मराठी</item>
+        <item>ગુજરાતી</item>
+        <item>தமிழ்</item>  \\tamil
+        <item>తెలుగు</item>  \\telugu
+        <item>বাংলা</item>   \\bengali
+        <item>മലയാളം</item>  \\malayalam
+        <item>ಕನ್ನಡ</item>     \\kannada
+    </string-array>
+</resources>
